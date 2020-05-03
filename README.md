@@ -7,7 +7,9 @@
     - [ ] React
 
 
-## ER in progress
+## ER 
+
+![alt text](https://github.com/Nish7/WebFolio/blob/master/ER%20webfolio%20V1.jpeg)
 
 - [x] Personal Information
     - [x] Photos
