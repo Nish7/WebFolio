@@ -9,21 +9,21 @@
 
 ## ER in progress
 
-- [ ] Personal Information
-    - [ ] Photos
-    - [ ] Display Name
-    - [ ] Work Experience
-    - [ ] About Me
-- [ ] Skills
-    - [ ] Technologies
-    - [ ] Languages
-- [ ] Projects
+- [x] Personal Information
+    - [x] Photos
+    - [x] Display Name
+    - [x] Work Experience
+    - [x] About Me
+- [x] Skills
+    - [x] Technologies
+    - [x] Languages
+- [x] Projects
     - [ ] Upcoming
     - [ ] Ongoing
     - [ ] Completed
 - [ ] Clients Manager
-    - [ ] Client Information
-    - [ ] Clients Project and Fees and its status
+    - [x] Client Information
+    - [x] Clients Project and Fees and its status
 - [ ] CV ( PDF ) 
 - [ ] Dashboard elements
     - [ ] Revenue graph
